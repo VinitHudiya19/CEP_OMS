@@ -59,7 +59,7 @@ Follow these steps to clone the repository and get the application running on yo
     *   **Important:** Replace `'YOUR_VERY_STRONG_RANDOM_SECRET_KEY_HERE'` with a real, randomly generated secret key. Do *not* use a weak or guessable key.
 
 6.  **Database Initialization:**
-    *   The application is set up to automatically create the `orphanage.db` SQLite database file and all necessary tables when you run it for the first time.
+    *   create the `orphanage_db` MySQL database file and all necessary tables when you run it for the first time.
     *   It will also create a default **admin** user with the following credentials:
         *   **Username:** `admin`
         *   **Password:** `password`
