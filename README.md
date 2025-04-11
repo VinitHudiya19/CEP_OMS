@@ -2,6 +2,12 @@
 
 A web application built with Flask to manage records for an orphanage, including orphans, donations, expenses, and NGO members. Features a dashboard with visual statistics.
 
+
+
+https://github.com/user-attachments/assets/0f2558ed-525c-4fda-b551-bde9d38ac73f
+
+
+
 ## Setup and Installation
 
 Follow these steps to clone the repository and get the application running on your local machine:
